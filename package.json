@@ -1,0 +1,10 @@
+{
+  "name": "baobab-nested-monkey-error",
+  "version": "1.0.0",
+  "main": "./lib/baobab-nested-monkey-error",
+  "dependencies": {
+    "baobab": "^2.3.0-rc1",
+    "interval-tree2": "^1.1.0",
+    "lodash": "^3.10.1"
+  }
+}
